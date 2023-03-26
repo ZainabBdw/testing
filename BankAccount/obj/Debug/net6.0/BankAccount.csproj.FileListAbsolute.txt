@@ -1,0 +1,15 @@
+/Users/zainabbdw/Projects/QA/BankAccount/bin/Debug/net6.0/BankAccount
+/Users/zainabbdw/Projects/QA/BankAccount/bin/Debug/net6.0/BankAccount.deps.json
+/Users/zainabbdw/Projects/QA/BankAccount/bin/Debug/net6.0/BankAccount.runtimeconfig.json
+/Users/zainabbdw/Projects/QA/BankAccount/bin/Debug/net6.0/BankAccount.dll
+/Users/zainabbdw/Projects/QA/BankAccount/bin/Debug/net6.0/BankAccount.pdb
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.csproj.AssemblyReference.cache
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.AssemblyInfoInputs.cache
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.AssemblyInfo.cs
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.dll
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/refint/BankAccount.dll
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.pdb
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/BankAccount.genruntimeconfig.cache
+/Users/zainabbdw/Projects/QA/BankAccount/obj/Debug/net6.0/ref/BankAccount.dll
